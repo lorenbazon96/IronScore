@@ -1,0 +1,49 @@
+body {
+  font-family: system-ui;
+  margin: 0;
+  padding: 0;
+  background-color: #414141;
+  color: #ffffff;
+}
+
+header {
+  background: #1f1f1f;
+  padding: 20px;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+nav ul li a {
+  color: #f4a261;
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background: #1f1f1f;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.logo-header {
+  height: 7em;
+}
+
+section {
+  padding: 60px 0;
+}
+
+.font-20 {
+  font-size: 20px;
+}
